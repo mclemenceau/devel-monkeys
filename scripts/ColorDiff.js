@@ -1,16 +1,19 @@
 // ==UserScript==
 // @name         Colorize Diff, compressed Diff and Patch Files
-// @namespace    http://github.com/mclemenceau
+// @namespace    https://github.com/mclemenceau
 // @version      1.0.1
-// @description  Highlights .diff files with standard syntax colors
 // @author       Matthieu Clemenceau
+// @description  Highlights .diff files with standard syntax colors
+// @homepage     https://github.com/mclemenceau/devel-monkeys
+// @homepageURL  https://github.com/mclemenceau/devel-monkeys
 // @icon         https://raw.githubusercontent.com/mclemenceau/devel-monkeys/refs/heads/main/icons/color-diff-icon.ico
 // @updateURL    https://raw.githubusercontent.com/mclemenceau/devel-monkeys/refs/heads/main/scripts/ColorDiff.js
 // @downloadURL  https://raw.githubusercontent.com/mclemenceau/devel-monkeys/refs/heads/main/scripts/ColorDiff.js
+// @supportURL   https://github.com/mclemenceau/devel-monkeys/issues
 // @match        *://*/*.diff
 // @match        *://*/*.diff.gz
 // @match        *://*/*.patch
-// @grant        none
+
 // ==/UserScript==
 
 (function() {
