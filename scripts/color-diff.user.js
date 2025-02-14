@@ -6,9 +6,9 @@
 // @description  Highlights .diff files with standard syntax colors
 // @homepage     https://github.com/mclemenceau/devel-monkeys
 // @homepageURL  https://github.com/mclemenceau/devel-monkeys
-// @icon         https://raw.githubusercontent.com/mclemenceau/devel-monkeys/refs/heads/main/icons/color-diff-icon.ico
-// @updateURL    https://raw.githubusercontent.com/mclemenceau/devel-monkeys/refs/heads/main/scripts/ColorDiff.js
-// @downloadURL  https://raw.githubusercontent.com/mclemenceau/devel-monkeys/refs/heads/main/scripts/ColorDiff.js
+// @icon         https://raw.githubusercontent.com/mclemenceau/devel-monkeys/main/icons/color-diff-icon.ico
+// @updateURL    https://raw.githubusercontent.com/mclemenceau/devel-monkeys/main/scripts/color-diff.user.js
+// @downloadURL  https://raw.githubusercontent.com/mclemenceau/devel-monkeys/main/scripts/color-diff.user.js
 // @supportURL   https://github.com/mclemenceau/devel-monkeys/issues
 // @match        *://*/*.diff
 // @match        *://*/*.diff.gz
