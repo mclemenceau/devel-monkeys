@@ -5,7 +5,7 @@
 I've used this mostly while contributing to Ubuntu but I don't see why it can't used elsewhere.
 
 Currently, this repository includes:
-- ![Color Diff Icon](icons/color-diff-icon-16x16.png) **[Color Diff Viewer (Tampermonkey Script)](https://raw.githubusercontent.com/mclemenceau/devel-monkeys/refs/heads/main/scripts/ColorDiff.js)**: Enhances `.diff`, `.diff.gz` and `.patch` files viewed in Chrome/Firefox by adding syntax highlighting (green for additions, red for deletions, orange for headers).
+- ![Color Diff Icon](icons/color-diff-icon-16x16.png) **[Color Diff Viewer (Tampermonkey Script)](https://raw.githubusercontent.com/mclemenceau/devel-monkeys/main/scripts/color-diff.user.js)**: Enhances `.diff`, `.diff.gz` and `.patch` files viewed in Chrome/Firefox by adding syntax highlighting (green for additions, red for deletions, orange for headers).
 
 This project is intended to grow with more scripts relevant to helping development operations.
 
