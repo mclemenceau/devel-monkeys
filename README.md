@@ -12,12 +12,12 @@ This project is intended to grow with more scripts relevant to helping developme
 ---
 
 ## 📦 Installation
-### 1️⃣ Install Tampermonkey
+### Install Tampermonkey
 - Download and install **[Tampermonkey](https://www.tampermonkey.net/)** for Chrome or Firefox.
 - Once Tampermonkey is installed clicking on the script should be enough to have it installed.
 
-### 2️⃣ Add the Script Manually
-- Open **Tampermonkey** and create a **new script**.
+### If needed Add the Script Manually
+- Open **Tampermonkey's** dashboard and create a **new script**.
 - Copy and paste the contents of [`scripts/color-diff.user.js`](scripts/color-diff.user.js) into it.
 - Save and enable the script.
 
