@@ -4,7 +4,9 @@
 // @version      1.0.1
 // @description  Highlights .diff files with standard syntax colors
 // @author       Matthieu Clemenceau
-// @icon
+// @icon         https://raw.githubusercontent.com/mclemenceau/devel-monkeys/refs/heads/main/icons/color-diff-icon.ico
+// @updateURL    https://raw.githubusercontent.com/mclemenceau/devel-monkeys/refs/heads/main/scripts/ColorDiff.js
+// @downloadURL  https://raw.githubusercontent.com/mclemenceau/devel-monkeys/refs/heads/main/scripts/ColorDiff.js
 // @match        *://*/*.diff
 // @match        *://*/*.diff.gz
 // @match        *://*/*.patch
