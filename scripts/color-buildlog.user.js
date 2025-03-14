@@ -11,13 +11,15 @@
 // @supportURL   https://github.com/mclemenceau/devel-monkeys/issues
 // @match        *://*/*BUILDING.txt.gz
 
+
+// ==/UserScript==
+
 (function() {
     'use strict';
 
     function highlightLog() {
         const pre = document.querySelector("pre"); // Build logs are usually inside a <pre> tag
-        if (!pre)
-            return;
+        if (!pre) return;
 
         let logText = pre.innerHTML;
 
@@ -43,4 +45,3 @@
 
 })();
 
-// ==/UserScript==
